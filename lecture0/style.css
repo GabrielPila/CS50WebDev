@@ -1,0 +1,62 @@
+h1 {
+    color: blue
+}
+
+h2 {
+    color: red;
+    text-align: center;
+}
+div {
+    background-color: lightblue;
+    width: "80%";
+    height: 50px;
+    margin: 30px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    border: 5px dashed blue;
+
+}
+
+#top {
+    font-size: 12px;
+}
+#middle {
+    font-size: 15px;
+}
+#bottom {
+    font-size: 18px;
+}
+
+.name {
+    font-size: 20px;
+}
+
+
+
+h3 {
+    color: green
+}
+button {
+    color: brown
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    color: black;
+    text-align: center;
+    width: 80%;
+}
+
+th, td {
+    border: 1.5px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+
+p {
+    color: rebeccapurple
+}
